@@ -4,7 +4,6 @@ table{
     border-radius: 10px;
     border-spacing: 0px;
     border-collapse: collapse;
-    border-bottom: 2px solid #000;
 }
 th{
     margin: 0px;
@@ -44,4 +43,5 @@ th{
 .tr5:hover{
     background-color: orange;
     color: aliceblue;
+
 }
